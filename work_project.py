@@ -11,6 +11,7 @@ driver.get(url)
 part_list = []
 
 # Login info Hard coded instead of using files
+# Personally don't recommend this as it's not secure being hard coded in your script. 
 class WORD_INPUT:
 
     id_service = ""
